@@ -1,13 +1,23 @@
 # Urban-Data-Science
-This repository contains learning materials for CP4813 Urban Data Science at Georgia Institute of Technology, School of City and Regional Planning
+This repository contains learning materials for Urban Data Science at Georgia Institute of Technology, School of City and Regional Planning
 
-Course name: CP4815 Urban Data Science
-Instructor: Yiyi He
-Teaching assistant: Yuehan Zhang
+**Course name**: CP4060 Urban Data Science <br>
+**Instructor**: Yiyi He<br>
+**Semester**: Spring 2026<br>
+**Class time**: 11:00-12:15pm<br>
+**Location**: Arch West 358<br>
 
 Contact email addresses:
 - yiyi.he@design.gatech.edu (Instructor)
-- yhzhang0725@gatech.edu (GTA)
+- yxu899@gatech.edu (TA)
+
+## Content
+- [Overview](#overview)
+- [Learning Objectives](#learning-objectives)
+- [Students with Disabilities](#students-with-disabilities)
+- [Evaluation](#evaluation)
+- [Learning Resources](#learning-resources)
+- [Course Schedule](#course-schedule)
 
 ## Overview
 
@@ -41,8 +51,11 @@ Through completing three lab assignments, students will gain first-hand knowledg
 - Hackathon challenge (30 pts total):
 The hackathon leverages open datasets and advanced analytics to address critical issues. Teams will use data visualization, machine learning, and geospatial analysis to develop actionable solutions, presenting their insights to the class.
 
-- Final Project (55 pts total: 15 pts on Presentation, 40 pts on Final project paper):
+- Final Project (50 pts total: 20 pts on Presentation, 30 pts on Final project paper):
 The final class requirement is a team-based project that applies the knowledge learned in the class to a real-world problem. Fifteen percent of the total course grade will be a formal presentation to the class.
+
+- Class participation (5 pts):
+
 
 All assignments (unless otherwise noted) are to be submitted through the “Assignments” tab on Canvas. It is the student’s responsibility to ensure that assignments submitted through Canvas are successfully uploaded into the system on time. For late submissions to any of the assignments above (final project paper excluded), a .5 point/day penalty will be applied. Late project paper submissions are not accepted. In the case of illness or other special circumstances, notification should be given as soon as possible and before the assignment deadline.
 
@@ -88,53 +101,64 @@ Link to GitHub Repo: https://github.com/srebalaji/python-crash-course
 
 ## Course Schedule
 
-**Week 1: Introduction**
-- Lecture: Introduction and course overview
-> Lab session: Getting things started-Anaconda and Jupyter
+**Week 1: Introduction**<br>
+01/12 **Lecture**: Introduction and course overview<br>
+01/14 **Lab**: Getting things started-Anaconda and Jupyter [A guide on installing Anaconda or Miniconda and creating virtual environments on your machine]<br>
 
-**Week 2: Python fundamentals**
-> Lab session: Introduction to Python 1
-> Lab session: Introduction to Python 2
+**Week 2: Python fundamentals**<br>
+> Readings: Ch. 2-6 of Wes McKinney’s Python for Data Analysis (3rd Edition), Python Crash Course by Srebalaji Thirumalai<br>
 
-**Week 3: Data Cleaning and Exploration**
-- Lecture: Exploratory Data Analysis (EDA)
+01/19 No class (Official institute holiday -- Martin Luther King, Jr. Day)<br>
+01/21 **Lab**: Introduction to Python 1<br>
+
+**Week 3: Data Cleaning and Exploration**<br>
+01/26 **Lab**: Introduction to Python 2<br>
+01/28 **Lecture**: Exploratory Data Analysis (EDA)<br>
 
 **Week 4: Geographic Data Science**
-- Lecture: Spatial Data Science
+> Reading: Geographic Data Science with Python Part 1<br>
 
-**Week 5 Spatial patterns and visualization**
-- Lecture: Poin pattern analysis
-> Lab session: Spatial data visualization
+02/02 **Lecture**: Spatial Data Science<br>
+02/04 **Lecture**: Poin pattern analysis<br>
 
-**Week 6 Unsupervised Machine Learning**
-- Lecture: K-means clustering and beyond
-> Lab session: Crime patterns in Atlanta
+**Week 5 Spatial patterns and visualization**<br>
+02/09 **Lab**: Spatial data visualization<br>
+02/11 **Lecture**: K-means clustering and beyond<br>
 
-**Week 7 🌟 Mid-semester project check-in 🌟**
-- Lecture: Principal Component Analysis
-- Mid-semester project presentations
+**Week 6 Unsupervised Machine Learning**<br>
+02/16 **Lab**: Crime patterns in Atlanta<br>
+02/18 **Lecture**: Principal Component Analysis<br>
 
-**Week 8 Supervised Machine Learning 1**
-- Lecture: Classification And Regression Trees
-- Lecture: Random Forest
+**Week 7 🌟 Mid-semester project check-in 🌟**<br>
+02/23 Mid-semester project presentations 1<br>
+02/25 Mid-semester project presentations 2<br>
 
-**Week 9 Supervised Machine Learning 2**
-> Lab session: Understanding housing affordability in California
-- Lecture: Support Vector Machine
+**Week 8 Supervised Machine Learning 1**<br>
+03/02 **Lecture**: Classification And Regression Trees<br>
+03/04 **Lecture**: Random Forest<br>
 
-**Week 10 🥊 Hackathon Challenge 🥊**
-- Day 1: Introduction, Forming teams, Exploratory Analysis
-- Day 2: Team presentations and discussion
+**Week 9 Supervised Machine Learning 2**<br>
+03/09 **Lab**: Understanding housing affordability in California<br>
+03/11 **Lecture**: Support Vector Machine<br>
 
-**Week 11 Urban Networks**
-- Lecture: Urban networks and graph representation
-> Lab session: Traffic congestion in NYC
+**Week 10 🥊 Hackathon Challenge 🥊**<br>
+03/16 **Hackathon Day 1**: Introduction, Forming teams, Exploratory Analysis<br>
+03/18 **Hackathon Day 2**: Team presentations and discussion<br>
 
-**Week 12 Data Science Agent**
-- Lecture: Introduction to computer vision
+🌴**SPRING BREAK**🌴<br>
 
-**Week 13 Computer Vision for Urban Planning**
-- Lecture: Introduction to computer vision
-> Lab session: Google Street View
+**Week 11 Urban Networks**<br>
+03/30 **Lecture**: Urban networks and graph representation<br>
+04/01 **Lab**: Traffic congestion in NYC<br>
 
-**Week 14-15 Final Project Presentations**
+**Week 12 Computer Vision**<br>
+04/06 **Lecture**: Introduction to computer vision<br>
+04/08 **Lab**: Google Street View<br>
+
+**Week 13 Computer Vision for Urban Planning**<br>
+04/13 **Guest Lecture**<br>
+04/15 **Open OH**<br>
+
+**Week 14 🎤Final Project Presentations**🎤<br>
+04/20 **Project Presentation 1**<br>
+04/22 **Project Presentation 2**<br>
