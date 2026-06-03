@@ -73,7 +73,7 @@ Link to Github Repo: https://github.com/wesm/pydata-book/tree/3rd-edition
 
 Authors: Sergio J. Rey, Dani Arribas-Bel, and Levi J. Wolf
 
-Link to book content: https://geographicdata.science/book/intro.html
+Link to book content: https://geographicdata.science/
 
  📖 Python Data Science Handbook
 
